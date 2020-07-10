@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Ene dilim</string>
+    <string name="title_home">Baş Sahypa</string>
+    <string name="title_dashboard">Bitirilenler</string>
+    <string name="title_notifications">App Barada</string>
+
+
+
+
+<!--    turkmen letters-->
+    <string name="letter_a">Aa</string>
+    <string name="letter_b">Bb</string>
+    <string name="letter_ch">Çç</string>
+    <string name="letter_d">Dd</string>
+    <string name="letter_e">Ee</string>
+    <string name="letter_aa">Ää</string>
+    <string name="letter_f">Ff</string>
+    <string name="letter_g">Gg</string>
+    <string name="letter_h">Hh</string>
+    <string name="letter_i">Ii</string>
+    <string name="letter_j">Jj</string>
+    <string name="letter_jj">Žž</string>
+    <string name="letter_k">Kk</string>
+    <string name="letter_l">Ll</string>
+    <string name="letter_m">Mm</string>
+    <string name="letter_n">Nn</string>
+    <string name="letter_nn">Ññ</string>
+    <string name="letter_o">Oo</string>
+    <string name="letter_oo">Öö</string>
+    <string name="letter_p">Pp</string>
+    <string name="letter_r">Rr</string>
+    <string name="letter_s">Ss</string>
+    <string name="letter_sh">Şş</string>
+    <string name="letter_t">Tt</string>
+    <string name="letter_u">Uu</string>
+    <string name="letter_uu">Üü</string>
+    <string name="letter_w">Ww</string>
+    <string name="letter_y">Yy</string>
+    <string name="letter_yy">Ýý</string>
+    <string name="letter_z">Zz</string>
+
+
+
+
+    <string name="Task">TaskFragment</string>
+    <string name="sozun_suraty">Sozun Suraty</string>
+    <string name="submit_task">Tabşyr</string>
+    <string name="word_edit">Söz</string>
+    <string name="completed_message">Tabşyryk tamamlandy</string>
+    <string name="sozun_sesi">Sozun sesi</string>
+    <string name="harpyn_sesi">Harpyn sesi</string>
+    <!--    -->
+
+
+    <!-- Output to TextView styled with a little HTML -->
+    <string name="title"><![CDATA[<h3>TAMAMLANAN TABŞYRYKLAR</h3>]]></string>
+    <string name="letter_name"><![CDATA[<b>Harp:</b>]]></string>
+    <string name="letter_word"><![CDATA[<b>Söz:</b>]]></string>
+    <string name="completed_day"><![CDATA[<b>Tamamlanan güni:</b>]]></string>
+    <string name="completed_time"><![CDATA[<b>Sagady:Minudy</b>]]></string>
+    <string name="letter">Harp:\u0020 </string>
+    <string name="word">Söz: \u0020 </string>
+    <string name="date">Tamamlanan güni:\u0020 </string>
+    <string name="time">Tamamlanan wagty:\u0020 </string>
+    <string name="at">at</string>
+
+</resources>

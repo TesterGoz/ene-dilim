@@ -1,0 +1,102 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="taskVewModel"
+            type="com.example.enedilim.ui.home.TaskViewModel" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.home.TaskFragment"
+        android:orientation="vertical"
+        android:layout_margin="16dp">
+
+        <ImageView
+            android:id="@+id/letter_word_image"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/sozun_suraty"
+            app:taskImage="@{taskVewModel.newLetterTask}"
+            tools:srcCompat="@tools:sample/avatars"
+            android:layout_marginBottom="20dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginStart="16dp"
+                android:textSize="25sp"
+                android:id="@+id/letter_name"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="@{taskVewModel.newLetterTask.letterName}"
+                tools:text="@tools:sample/first_names" />
+        <ImageButton
+            android:id="@+id/letter_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_volume_mute"
+            android:onClick="@{() -> taskVewModel.taskLetterVoiceClicked(taskVewModel.newLetterTask)}"
+            android:contentDescription="@string/harpyn_sesi" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginStart="16dp"
+                android:textSize="25sp"
+                android:id="@+id/letter_word"
+                android:layout_width="201dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@{taskVewModel.newLetterTask.letterWord}"
+                tools:text="@tools:sample/last_names" />
+            <ImageButton
+                android:id="@+id/letter_word_voice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_volume_mute"
+                android:onClick="@{() -> taskVewModel.taskWordVoiceClicked(taskVewModel.newLetterTask)}"
+                android:contentDescription="@string/sozun_sesi" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/word_edit"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="@string/word_edit"
+            android:autofillHints="" />
+        <Button
+            android:id="@+id/submit_button"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/submit_task"
+            android:onClick="@{() -> taskVewModel.taskCompleteClicked()}"/>
+        <TextView
+            android:id="@+id/completed_message"
+            android:layout_marginTop="20dp"
+            android:textSize="20sp"
+            android:textColor="@android:color/holo_green_dark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/completed_message"
+            android:visibility="gone"
+            />
+
+    </LinearLayout>
+</layout>

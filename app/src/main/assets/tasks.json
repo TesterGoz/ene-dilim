@@ -1,0 +1,122 @@
+[
+  {"letterName": "Aa",    "letterWord": "at",      "letterWordImage": "at",         "letterVoice": "a",    "letterWordVoice": "at"},
+  {"letterName": "Aa",    "letterWord": "alma",    "letterWordImage": "alma",       "letterVoice": "a",    "letterWordVoice": "alma"},
+  {"letterName": "Aa",    "letterWord": "aýy",     "letterWordImage": "ayy",        "letterVoice": "a",    "letterWordVoice": "ayy"},
+  {"letterName": "Aa",    "letterWord": "açar",    "letterWordImage": "achar",      "letterVoice": "a",    "letterWordVoice": "achar"},
+  {"letterName": "Aa",    "letterWord": "agaç",    "letterWordImage": "agach",      "letterVoice": "a",    "letterWordVoice": "agach"},
+  {"letterName": "Aa",    "letterWord": "alym",    "letterWordImage": "alym",       "letterVoice": "a",    "letterWordVoice": "alym"},
+  {"letterName": "Aa",    "letterWord": "agyz",    "letterWordImage": "agyz",       "letterVoice": "a",    "letterWordVoice": "agyz"},
+  {"letterName": "Aa",    "letterWord": "alabaý",  "letterWordImage": "alabay",     "letterVoice": "a",    "letterWordVoice": "alabay"},
+  {"letterName": "Aa",    "letterWord": "adam",    "letterWordImage": "adam",       "letterVoice": "a",    "letterWordVoice": "adam"},
+  {"letterName": "Aa",    "letterWord": "altyn",   "letterWordImage": "altyn",      "letterVoice": "a",    "letterWordVoice": "altyn"}
+
+,
+
+  {"letterName": "Bb",    "letterWord": "baýdak",   "letterWordImage": "baydak",    "letterVoice": "b",    "letterWordVoice": "baydak"},
+  {"letterName": "Bb",    "letterWord": "börek",    "letterWordImage": "borek",     "letterVoice": "b",    "letterWordVoice": "borek"},
+  {"letterName": "Bb",    "letterWord": "bäş",      "letterWordImage": "bash",      "letterVoice": "b",    "letterWordVoice": "bash"},
+  {"letterName": "Bb",    "letterWord": "balyk",    "letterWordImage": "balyk",     "letterVoice": "b",    "letterWordVoice": "balyk"},
+  {"letterName": "Bb",    "letterWord": "bina",     "letterWordImage": "bina",      "letterVoice": "b",    "letterWordVoice": "bina"},
+  {"letterName": "Bb",    "letterWord": "bäbek",    "letterWordImage": "babek",     "letterVoice": "b",    "letterWordVoice": "babek"},
+  {"letterName": "Bb",    "letterWord": "bag",      "letterWordImage": "bag",       "letterVoice": "b",    "letterWordVoice": "bag"},
+  {"letterName": "Bb",    "letterWord": "bulut",    "letterWordImage": "bulut",     "letterVoice": "b",    "letterWordVoice": "bulut"},
+  {"letterName": "Bb",    "letterWord": "bagban",   "letterWordImage": "bagban",    "letterVoice": "b",    "letterWordVoice": "bagban"},
+  {"letterName": "Bb",    "letterWord": "basgançak","letterWordImage": "basganchak","letterVoice": "b",    "letterWordVoice": "basganchak"},
+  {"letterName": "Bb",    "letterWord": "bal",      "letterWordImage": "bal",       "letterVoice": "b",    "letterWordVoice": "bal"},
+  {"letterName": "Bb",    "letterWord": "bukja",    "letterWordImage": "bukja",     "letterVoice": "b",    "letterWordVoice": "bukja"}
+
+  ,
+
+  {"letterName": "Çç",    "letterWord": "çörek",    "letterWordImage": "chorek",    "letterVoice": "ch",   "letterWordVoice": "chorek"},
+  {"letterName": "Çç",    "letterWord": "çüýşe",    "letterWordImage": "chuyshe",   "letterVoice": "ch",   "letterWordVoice": "chuyshe"},
+  {"letterName": "Çç",    "letterWord": "çigit",    "letterWordImage": "chigit",    "letterVoice": "ch",   "letterWordVoice": "chigit"},
+  {"letterName": "Çç",    "letterWord": "çaga",     "letterWordImage": "chaga",     "letterVoice": "ch",   "letterWordVoice": "chaga"},
+  {"letterName": "Çç",    "letterWord": "çigildem", "letterWordImage": "chigildem", "letterVoice": "ch",   "letterWordVoice": "chigildem"},
+  {"letterName": "Çç",    "letterWord": "çeşme",    "letterWordImage": "cheshme",   "letterVoice": "ch",   "letterWordVoice": "cheshme"},
+  {"letterName": "Çç",    "letterWord": "çöl",      "letterWordImage": "chol",      "letterVoice": "ch",   "letterWordVoice": "chol"},
+  {"letterName": "Çç",    "letterWord": "çopan",    "letterWordImage": "chopan",    "letterVoice": "ch",   "letterWordVoice": "chopan"},
+  {"letterName": "Çç",    "letterWord": "çybyn",    "letterWordImage": "chybyn",    "letterVoice": "ch",   "letterWordVoice": "chybyn"},
+  {"letterName": "Çç",    "letterWord": "çadyr",    "letterWordImage": "chadyr",    "letterVoice": "ch",   "letterWordVoice": "chadyr"}
+
+  ,
+
+  {"letterName": "Dd",    "letterWord": "deňiz",    "letterWordImage": "deniz",     "letterVoice": "d",    "letterWordVoice": "deniz"},
+  {"letterName": "Dd",    "letterWord": "düýe",     "letterWordImage": "duye",      "letterVoice": "d",    "letterWordVoice": "duye"},
+  {"letterName": "Dd",    "letterWord": "daýy",     "letterWordImage": "dayy",      "letterVoice": "d",    "letterWordVoice": "dayy"},
+  {"letterName": "Dd",    "letterWord": "dag",      "letterWordImage": "dag",       "letterVoice": "d",    "letterWordVoice": "dag"},
+  {"letterName": "Dd",    "letterWord": "depder",   "letterWordImage": "depder",    "letterVoice": "d",    "letterWordVoice": "depder"},
+  {"letterName": "Dd",    "letterWord": "daş",      "letterWordImage": "dash",      "letterVoice": "d",    "letterWordVoice": "dash"},
+  {"letterName": "Dd",    "letterWord": "derman",   "letterWordImage": "derman",    "letterVoice": "d",    "letterWordVoice": "derman"},
+  {"letterName": "Dd",    "letterWord": "diwar",    "letterWordImage": "diwar",     "letterVoice": "d",    "letterWordVoice": "diwar"}
+
+  ,
+
+  {"letterName": "Ee",    "letterWord": "el",       "letterWordImage": "el",        "letterVoice": "e",    "letterWordVoice": "el"},
+  {"letterName": "Ee",    "letterWord": "enjam",    "letterWordImage": "enjam",     "letterVoice": "e",    "letterWordVoice": "enjam"},
+  {"letterName": "Ee",    "letterWord": "eje",      "letterWordImage": "eje",       "letterVoice": "e",    "letterWordVoice": "eje"},
+  {"letterName": "Ee",    "letterWord": "eşek",     "letterWordImage": "eshek",     "letterVoice": "e",    "letterWordVoice": "eshek"},
+  {"letterName": "Ee",    "letterWord": "erik",     "letterWordImage": "erik",      "letterVoice": "e",    "letterWordVoice": "erik"},
+  {"letterName": "Ee",    "letterWord": "eşik",     "letterWordImage": "eshik",     "letterVoice": "e",    "letterWordVoice": "eshik"},
+  {"letterName": "Ee",    "letterWord": "ekin",     "letterWordImage": "ekin",      "letterVoice": "e",    "letterWordVoice": "ekin"},
+  {"letterName": "Ee",    "letterWord": "erteki",   "letterWordImage": "erteki",    "letterVoice": "e",    "letterWordVoice": "erteki"},
+  {"letterName": "Ee",    "letterWord": "elipbiý",  "letterWordImage": "elipbiy",   "letterVoice": "e",    "letterWordVoice": "elipbiy"}
+
+  ,
+
+  {"letterName": "Ää",    "letterWord": "äýnek",    "letterWordImage": "aýnek",     "letterVoice":"ä",     "letterWordVoice": "aýnek"},
+  {"letterName": "Ää",    "letterWord": "älem",     "letterWordImage": "alem",      "letterVoice":"ä",     "letterWordVoice": "alem"},
+  {"letterName": "Ää",    "letterWord": "ädim",     "letterWordImage": "adim",      "letterVoice":"ä",     "letterWordVoice": "adim"},
+  {"letterName": "Ää",    "letterWord": "ädik",     "letterWordImage": "adik",      "letterVoice":"ä",     "letterWordVoice": "adik"},
+  {"letterName": "Ää",    "letterWord": "äpişge",   "letterWordImage": "apishge",   "letterVoice":"ä",     "letterWordVoice": "apishge"},
+  {"letterName": "Ää",    "letterWord": "ädikçi",   "letterWordImage": "adikchi",   "letterVoice":"ä",     "letterWordVoice": "adikchi"},
+  {"letterName": "Ää",    "letterWord": "älemgoşar","letterWordImage": "alemgoshar","letterVoice":"ä",     "letterWordVoice": "alemgoshar"},
+  {"letterName": "Ää",    "letterWord": "är  ýigit","letterWordImage": "ar  ýigit", "letterVoice":"ä",     "letterWordVoice": "ar  ýigit"}
+
+  ,
+  {"letterName": "Ff",    "letterWord": "faks",     "letterWordImage": "faks",      "letterVoice": "f",    "letterWordVoice": "faks"},
+  {"letterName": "Ff",    "letterWord": "Filippin", "letterWordImage": "Filippin",  "letterVoice": "f",    "letterWordVoice": "Filippin"},
+  {"letterName": "Ff",    "letterWord": "finçe",    "letterWordImage": "finche",    "letterVoice": "f",    "letterWordVoice": "finche"},
+  {"letterName": "Ff",    "letterWord": "Fransiýa", "letterWordImage": "Fransiya",  "letterVoice": "f",    "letterWordVoice": "Fransiya"},
+  {"letterName": "Ff",    "letterWord": "Fransuzça","letterWordImage": "Fransuzcha","letterVoice": "f",    "letterWordVoice": "Fransuzcha"},
+  {"letterName": "Ff",    "letterWord": "futbol",   "letterWordImage": "futbol",    "letterVoice": "f",    "letterWordVoice": "futbol"},
+  {"letterName": "Ff",    "letterWord": "futbol topy","letterWordImage":"futbol topy","letterVoice":"f",   "letterWordVoice": "futbol topy"},
+  {"letterName": "Ff",    "letterWord": "futbolçy", "letterWordImage": "futbolchy", "letterVoice": "f",    "letterWordVoice": "futbolchy"}
+
+  ,
+
+  {"letterName": "Gg",    "letterWord": "göz",      "letterWordImage": "goz",       "letterVoice": "g",    "letterWordVoice": "goz"},
+  {"letterName": "Gg",    "letterWord": "gyz",      "letterWordImage": "gyz",       "letterVoice": "g",    "letterWordVoice": "gyz"},
+  {"letterName": "Gg",    "letterWord": "gül",      "letterWordImage": "gul",       "letterVoice": "g",    "letterWordVoice": "gul"},
+  {"letterName": "Gg",    "letterWord": "guş",      "letterWordImage": "gush",      "letterVoice": "g",    "letterWordVoice": "gush"},
+  {"letterName": "Gg",    "letterWord": "garpyz",   "letterWordImage": "garpyz",    "letterVoice": "g",    "letterWordVoice": "garpyz"},
+  {"letterName": "Gg",    "letterWord": "göl",      "letterWordImage": "gol",       "letterVoice": "g",    "letterWordVoice": "gol"},
+  {"letterName": "Gg",    "letterWord": "geçi",     "letterWordImage": "gechi",     "letterVoice": "g",    "letterWordVoice": "gechi"},
+  {"letterName": "Gg",    "letterWord": "gün",      "letterWordImage": "gun",       "letterVoice": "g",    "letterWordVoice": "gun"},
+  {"letterName": "Gg",    "letterWord": "göle",     "letterWordImage": "gole",      "letterVoice": "g",    "letterWordVoice": "gole"}
+
+  ,
+
+  {"letterName": "Hh",    "letterWord": "hamyr",    "letterWordImage": "hamyr",     "letterVoice": "h",    "letterWordVoice": "hamyr"},
+  {"letterName": "Hh",    "letterWord": "howuz",    "letterWordImage": "howuz",     "letterVoice": "h",    "letterWordVoice": "howuz"},
+  {"letterName": "Hh",    "letterWord": "haýwan",   "letterWordImage": "haywan",    "letterVoice": "h",    "letterWordVoice": "haywan"},
+  {"letterName": "Hh",    "letterWord": "halta",    "letterWordImage": "halta",     "letterVoice": "h",    "letterWordVoice": "halta"},
+  {"letterName": "Hh",    "letterWord": "höwürtge", "letterWordImage": "howurtge",  "letterVoice": "h",    "letterWordVoice": "howurtge"},
+  {"letterName": "Hh",    "letterWord": "harp",     "letterWordImage": "harp",      "letterVoice": "h",    "letterWordVoice": "harp"},
+  {"letterName": "Hh",    "letterWord": "hazyna",   "letterWordImage": "hazyna",    "letterVoice": "h",    "letterWordVoice": "hazyna"},
+  {"letterName": "Hh",    "letterWord": "hasyl",    "letterWordImage": "hasyl",     "letterVoice": "h",    "letterWordVoice": "hasyl"},
+  {"letterName": "Hh",    "letterWord": "horaz",    "letterWordImage": "horaz",     "letterVoice": "h",    "letterWordVoice": "horaz"}
+
+  ,
+
+  {"letterName": "Ii",    "letterWord":"ilik",      "letterWordImage": "ilik",      "letterVoice": "i",    "letterWordVoice": "ilik"},
+  {"letterName": "Ii",    "letterWord":"injir",     "letterWordImage": "injir",     "letterVoice": "i",    "letterWordVoice": "injir"},
+  {"letterName": "Ii",    "letterWord":"iki",       "letterWordImage": "iki",       "letterVoice": "i",    "letterWordVoice": "iki"},
+  {"letterName": "Ii",    "letterWord":"iňňe",      "letterWordImage": "inne",      "letterVoice": "i",    "letterWordVoice": "inne"},
+  {"letterName": "Ii",    "letterWord":"içýan",     "letterWordImage": "ichyan",    "letterVoice": "i",    "letterWordVoice": "ichyan"},
+  {"letterName": "Ii",    "letterWord":"it",        "letterWordImage": "it",        "letterVoice": "i",    "letterWordVoice": "it"},
+  {"letterName": "Ii",    "letterWord":"iýmiş",     "letterWordImage": "iymish",    "letterVoice": "i",    "letterWordVoice": "iymish"},
+  {"letterName": "Ii",    "letterWord":"iýmit",     "letterWordImage": "iymit",     "letterVoice": "i",    "letterWordVoice": "iymit"},
+  {"letterName": "Ii",    "letterWord":"ig",        "letterWordImage": "ig",        "letterVoice": "i",    "letterWordVoice": "ig"}
+
+]
+

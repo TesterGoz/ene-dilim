@@ -1,0 +1,218 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="homeViewModel"
+            type="com.example.enedilim.ui.home.HomeViewModel"/>
+    </data>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment"
+    android:background="#c8e6c9">
+    <ScrollView
+        android:id="@+id/scrollview_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="62dp"
+        android:layout_marginTop="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="8dp"
+            android:orientation="vertical"
+            android:layout_marginBottom="40dp">
+
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b1"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_a"
+                    android:onClick="@{() -> homeViewModel.navigateTo(1)}"/>
+                <Button
+                    android:id="@+id/b2"
+                    android:text="@string/letter_b"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(2)}"/>
+                <Button
+                    android:id="@+id/b3"
+                    android:text="@string/letter_ch"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(3)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b4"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_d"
+                    android:onClick="@{() -> homeViewModel.navigateTo(4)}"/>
+                <Button
+                    android:id="@+id/b5"
+                    android:text="@string/letter_e"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(5)}"/>
+                <Button
+                    android:id="@+id/b6"
+                    android:text="@string/letter_aa"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(6)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b7"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_f"
+                    android:onClick="@{() -> homeViewModel.navigateTo(7)}"/>
+                <Button
+                    android:id="@+id/b8"
+                    android:text="@string/letter_g"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(8)}"/>
+                <Button
+                    android:id="@+id/b9"
+                    android:text="@string/letter_h"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(9)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b10"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_i"
+                    android:onClick="@{() -> homeViewModel.navigateTo(10)}"/>
+                <Button
+                    android:id="@+id/b11"
+                    android:text="@string/letter_j"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(11)}"/>
+                <Button
+                    android:id="@+id/b12"
+                    android:text="@string/letter_jj"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(12)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b13"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_k"
+                    android:onClick="@{() -> homeViewModel.navigateTo(13)}"/>
+                <Button
+                    android:id="@+id/b14"
+                    android:text="@string/letter_l"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(14)}"/>
+                <Button
+                    android:id="@+id/b15"
+                    android:text="@string/letter_m"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(15)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b16"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_n"
+                    android:onClick="@{() -> homeViewModel.navigateTo(16)}"/>
+                <Button
+                    android:id="@+id/b17"
+                    android:text="@string/letter_nn"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(17)}"/>
+                <Button
+                    android:id="@+id/b18"
+                    android:text="@string/letter_o"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(18)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b19"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_oo"
+                    android:onClick="@{() -> homeViewModel.navigateTo(19)}"/>
+                <Button
+                    android:id="@+id/b20"
+                    android:text="@string/letter_p"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(20)}"/>
+                <Button
+                    android:id="@+id/b21"
+                    android:text="@string/letter_r"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(21)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b22"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_s"
+                    android:onClick="@{() -> homeViewModel.navigateTo(22)}"/>
+                <Button
+                    android:id="@+id/b23"
+                    android:text="@string/letter_sh"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(23)}"/>
+                <Button
+                    android:id="@+id/b24"
+                    android:text="@string/letter_t"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(24)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b25"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_u"
+                    android:onClick="@{() -> homeViewModel.navigateTo(25)}"/>
+                <Button
+                    android:id="@+id/b26"
+                    android:text="@string/letter_uu"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(26)}"/>
+                <Button
+                    android:id="@+id/b27"
+                    android:text="@string/letter_w"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(27)}" />
+            </LinearLayout>
+            <LinearLayout
+                style="@style/HorizontalButtonsLinearStyle">
+                <Button
+                    android:id="@+id/b28"
+                    style="@style/ButtonStyle"
+                    android:text="@string/letter_y"
+                    android:onClick="@{() -> homeViewModel.navigateTo(28)}"/>
+                <Button
+                    android:id="@+id/b29"
+                    android:text="@string/letter_yy"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(29)}"/>
+                <Button
+                    android:id="@+id/b30"
+                    android:text="@string/letter_z"
+                    style="@style/ButtonStyle"
+                    android:onClick="@{() -> homeViewModel.navigateTo(30)}" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
